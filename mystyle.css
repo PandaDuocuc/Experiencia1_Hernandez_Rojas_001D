@@ -130,3 +130,10 @@ input[type = "subdmit"]:hover{
 .enlace_registro a:hover{
     text-decoration: underline;
 }
+
+footer
+{
+    margin-top: 190px;
+    width: 100%;
+    height: 200px;
+}
