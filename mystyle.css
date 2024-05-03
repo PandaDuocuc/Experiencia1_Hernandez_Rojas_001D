@@ -186,3 +186,13 @@ footer
     width: 350px;
     height: 350px;
 }
+
+a.boton {
+    margin-left: 10px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: green;
+}
