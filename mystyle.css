@@ -142,6 +142,11 @@ footer{
     height: auto;
 }
 
+.img2{
+    max-width: 100%;
+    height: auto;
+}
+
 a.boton {
     margin-left: 10px;
     -webkit-appearance: button;
@@ -168,5 +173,11 @@ a.boton {
 @media (min-width: 768px) {
     .img{
         max-width: 316px;
+    }
+}
+
+@media (min-width: 768px) {
+    .img2{
+        max-width: 480px;
     }
 }
